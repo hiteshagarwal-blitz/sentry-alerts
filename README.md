@@ -1,1 +1,1 @@
-# sentry-alerts
+# sentry-alert
